@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Logs
+*.log
+
+# Results
+exa_results.txt
+generated_content/
+*.md 
