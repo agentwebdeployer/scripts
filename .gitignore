@@ -15,4 +15,5 @@ __pycache__/
 # Results
 exa_results.txt
 generated_content/
-*.md 
+
+*.DS_Store
